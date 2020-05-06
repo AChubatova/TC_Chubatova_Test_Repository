@@ -1,3 +1,3 @@
-message = "текст сообщения"
+message = "Nastasia MeSsaGE"
 
 print(message)
