@@ -5,11 +5,11 @@
   <settings>
     <parameters />
     <build-runners>
-      <runner id="RUNNER_5" name="output3" type="jetbrains_powershell">
+      <runner id="RUNNER_5" name="output4" type="jetbrains_powershell">
         <parameters>
           <param name="jetbrains_powershell_execution" value="PS1" />
           <param name="jetbrains_powershell_noprofile" value="true" />
-          <param name="jetbrains_powershell_script_file" value="output3_master.ps1" />
+          <param name="jetbrains_powershell_script_file" value="output4_master.ps1" />
           <param name="jetbrains_powershell_script_mode" value="FILE" />
           <param name="teamcity.step.mode" value="default" />
         </parameters>
