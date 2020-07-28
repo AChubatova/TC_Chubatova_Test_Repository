@@ -39,7 +39,7 @@ object CommandMaster : BuildType({
 
     steps {
         powerShell {
-            name = "output_older_settings_change"
+            name = "output_newer_settings_change"
             scriptMode = file {
                 path = "output3_master.ps1"
             }
