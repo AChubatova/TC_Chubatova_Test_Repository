@@ -39,7 +39,7 @@ object CommandMaster : BuildType({
 
     steps {
         powerShell {
-            name = "output_old_onecommit"
+            name = "step1bla"
             scriptMode = file {
                 path = "output3_master.ps1"
             }
