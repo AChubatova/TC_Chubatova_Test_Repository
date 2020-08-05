@@ -28,6 +28,10 @@ version = "2020.1"
 project {
 
     buildType(CommandMaster)
+
+    params {
+        param("system.teamcity.build.checkoutDir.expireHours", "never")
+    }
 }
 
 object CommandMaster : BuildType({
