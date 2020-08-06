@@ -1,2 +1,2 @@
-write-output "specific text"
+write-output "specific tex"
 return 1
