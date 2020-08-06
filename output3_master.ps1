@@ -1,2 +1,2 @@
-write-output "output3111222333_onecommit"
+write-output "specific text"
 return 1
