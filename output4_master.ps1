@@ -1,2 +1,2 @@
 write-output "<?specific text" > output4.txt
-write-output "<?specific text!@#$%^&*)_+|}{" 
+write-output "I reproduced something like this, but the redundant investigation disappears after I reloaded the whole web page (although it is still a bug). Does it disappear for you after page reload or stays forever? By the way, there is a reference here with the logic how it SHOULD work https://www.jetbrains.com/help/teamcity/investigations-auto-assigner.html. Build type deployment/regular does not matter" 
