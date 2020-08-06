@@ -1,1 +1,2 @@
-write-output9 "output3111222333_onecommit"
+write-output "output3111222333_onecommit"
+return 1
