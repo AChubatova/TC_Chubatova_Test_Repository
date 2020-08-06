@@ -1,2 +1,2 @@
 write-output "<?specific text" > output4.txt
-write-output "<?specific text" 
+write-output "<?specific text!@#$%^&*()_+|}{" 
