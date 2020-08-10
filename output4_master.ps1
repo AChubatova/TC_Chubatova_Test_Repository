@@ -1,1 +1,1 @@
-write-output "<?specific text" > output4.txt
+write-output "<?specific text3" > output4.txt
