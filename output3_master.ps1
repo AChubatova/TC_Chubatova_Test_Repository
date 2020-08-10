@@ -1,2 +1,1 @@
-write-output "specific text"
-return 1
+write-output "specific text" > output3.txt
