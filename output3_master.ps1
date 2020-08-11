@@ -1,1 +1,1 @@
-write-output "specific text2" > output3.txt
+write-output "specific text2_change" > output3.txt
